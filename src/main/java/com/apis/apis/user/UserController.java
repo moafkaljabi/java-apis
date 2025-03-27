@@ -22,9 +22,6 @@ public class UserController {
                         "Mo@mail.com",
                         LocalDate.of(2001,Month.FEBRUARY,20),
                         24
-
-
-
                 )
         );
     }
